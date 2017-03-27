@@ -9,6 +9,10 @@ Markdown editing meet Bootstrap.
 
 Demo and documentation on [http://toopay.github.io/bootstrap-markdown/](http://toopay.github.io/bootstrap-markdown/)
 
+## Increase the upload
+
+Enables integration with DropZone for allowing file upload/linking via drag&drop. 
+
 ### LICENSE
 
 > Copyright 2013-2016 Taufan Aditya
